@@ -57,10 +57,10 @@ A QR/NFC-based digital profile designed to help people identify and recover lost
 
 Building real-world digital products and expanding my skills in **Front-End Development, Product Design and UI/UX**.
 
-## 🤝 Connect with me
+📧 Email: [felipesbelphman@gmail.com](mailto:felipesbelphman@gmail.com)
 
-📧 Email: YOUR-EMAIL-HERE
+📱 Phone / WhatsApp: [+353 89 602 8494](https://wa.me/353896028494)
 
-📸 Instagram: [@felipesantosbelphman](https://www.instagram.com/felipesantosbelphman/)
+📸 Instagram: [@felipesantosbelphman](https://www.instagram.com/felipesantosbelphman)
 
 💼 LinkedIn: Coming soon
