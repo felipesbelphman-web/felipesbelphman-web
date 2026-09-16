@@ -1,10 +1,17 @@
 # Hi, I'm Felipe 👋
 
-### Front-End Developer & Web Designer based in Dublin, Ireland 🇮🇪
+### Junior Front-End Developer based in Dublin, Ireland 🇮🇪
 
-I build modern, responsive and user-focused digital products, combining front-end development with UI/UX and web design.
+I build responsive, accessible and user-focused web applications with **React, TypeScript and Next.js**.
 
-## 💻 Tech Stack
+I enjoy turning product ideas and Figma designs into clear, maintainable interfaces that solve real problems.
+
+- 🌍 Open to junior front-end opportunities in Ireland and across Europe
+- 🚀 Currently building **MoneyPilot**
+- 🎨 Interested in front-end development, product design and UI/UX
+- 📚 Continuously improving through real-world projects
+
+## Tech Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
@@ -14,53 +21,44 @@ I build modern, responsive and user-focused digital products, combining front-en
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
-
-## 🎨 Design & UI/UX
-
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
 
-- UI/UX Design
-- Web Design
-- Wireframing
-- Prototyping
-- Responsive Design
+## Featured Projects
 
-## 🚀 Featured Projects
+### MoneyPilot — Personal Finance Platform
 
-### 🍽️ Restaurant Menu Platform
-A modern digital restaurant platform built with **Next.js, TypeScript and Supabase**, designed for mobile ordering, QR/NFC experiences and restaurant operations.
+A modern personal finance application designed to help users understand their money, manage transactions and budgets, track goals and view financial insights through a responsive dashboard.
 
-➡️ [View project on GitHub](https://github.com/felipesbelphman-web/restaurant-menu-template)
+**Built with:** Next.js, React, TypeScript, Tailwind CSS and Supabase.
+
+[View the MoneyPilot repository →](https://github.com/felipesbelphman-web/moneypilot)
 
 ---
 
-### 🎨 Thumbnail Studio
-A responsive website created for a professional thumbnail design service, focused on clean visual presentation and modern UI.
+### Thumbnail Studio — Responsive Landing Page
 
-➡️ [View project on GitHub](https://github.com/felipesbelphman-web/thumbnail-studio)
+A responsive landing page created for a professional YouTube thumbnail design service, with a strong focus on visual hierarchy, clean presentation and modern interface design.
+
+**Built with:** HTML, CSS and responsive web design.
+
+[View the Thumbnail Studio repository →](https://github.com/felipesbelphman-web/thumbnail-studio)
+
+## What I Focus On
+
+- Responsive and accessible interfaces
+- React and component-based development
+- TypeScript and maintainable code
+- Figma-to-code implementation
+- User-focused product experiences
+- Git and GitHub workflows
+
+## Contact
+
+- Email: [felipesbelphman@gmail.com](mailto:felipesbelphman@gmail.com)
+- Location: Dublin, Ireland
+- GitHub: [felipesbelphman-web](https://github.com/felipesbelphman-web)
 
 ---
 
-### 🐾 Pet ID
-A responsive digital identification experience for pets, combining modern UI with a digital identity concept.
-
-➡️ [View project on GitHub](https://github.com/felipesbelphman-web/pet-id)
-
----
-
-### 🔎 Found Item Profile
-A QR/NFC-based digital profile designed to help people identify and recover lost items.
-
-➡️ [View project on GitHub](https://github.com/felipesbelphman-web/found-item-profile)
-
-## 🌱 Currently
-
-Building real-world digital products and expanding my skills in **Front-End Development, Product Design and UI/UX**.
-
-📧 Email: [felipesbelphman@gmail.com](mailto:felipesbelphman@gmail.com)
-
-📱 Phone / WhatsApp: [+353 89 602 8494](https://wa.me/353896028494)
-
-📸 Instagram: [@felipesantosbelphman](https://www.instagram.com/felipesantosbelphman)
-
-💼 LinkedIn: Coming soon
+Currently open to **junior front-end opportunities in Ireland and across Europe**.
