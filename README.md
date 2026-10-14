@@ -11,6 +11,14 @@ I enjoy turning product ideas and Figma designs into clear, maintainable interfa
 - 🎨 Interested in front-end development, product design and UI/UX
 - 📚 Continuously improving through real-world projects
 
+  ## 🎓 Education & Bootcamps
+
+### Ri Happy — Front-end do Zero | DIO
+Front-end development bootcamp focused on HTML, CSS,
+JavaScript, and hands-on projects.
+
+📚 Status: In progress
+
 ## Tech Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
